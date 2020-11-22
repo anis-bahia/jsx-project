@@ -1,0 +1,16 @@
+.titleRed{
+  color: rgb(241, 30, 30) ;
+  font-size: 400;
+  font-family: cursive;
+  text-align: center;
+}
+
+.img{
+  max-width: 100%;
+  margin-left: auto;
+  margin-bottom:20px;
+  margin-left: 30%;
+  border-radius: 15px 15px 15px;
+  border: palevioletred;
+  
+}
