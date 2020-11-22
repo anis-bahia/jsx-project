@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/jsx-project/static/css/main.7f987bd0.chunk.css",
-    "main.js": "/jsx-project/static/js/main.91a98add.chunk.js",
-    "main.js.map": "/jsx-project/static/js/main.91a98add.chunk.js.map",
-    "runtime-main.js": "/jsx-project/static/js/runtime-main.b96dac91.js",
-    "runtime-main.js.map": "/jsx-project/static/js/runtime-main.b96dac91.js.map",
-    "static/js/2.b55dbdc0.chunk.js": "/jsx-project/static/js/2.b55dbdc0.chunk.js",
-    "static/js/2.b55dbdc0.chunk.js.map": "/jsx-project/static/js/2.b55dbdc0.chunk.js.map",
-    "static/js/3.db346e32.chunk.js": "/jsx-project/static/js/3.db346e32.chunk.js",
-    "static/js/3.db346e32.chunk.js.map": "/jsx-project/static/js/3.db346e32.chunk.js.map",
+    "main.css": "/jsx-project/static/css/main.ce18ea5e.chunk.css",
+    "main.js": "/jsx-project/static/js/main.3d812ac3.chunk.js",
+    "main.js.map": "/jsx-project/static/js/main.3d812ac3.chunk.js.map",
+    "runtime-main.js": "/jsx-project/static/js/runtime-main.5aa1d85a.js",
+    "runtime-main.js.map": "/jsx-project/static/js/runtime-main.5aa1d85a.js.map",
+    "static/js/2.3df83787.chunk.js": "/jsx-project/static/js/2.3df83787.chunk.js",
+    "static/js/2.3df83787.chunk.js.map": "/jsx-project/static/js/2.3df83787.chunk.js.map",
+    "static/js/3.14dd0aca.chunk.js": "/jsx-project/static/js/3.14dd0aca.chunk.js",
+    "static/js/3.14dd0aca.chunk.js.map": "/jsx-project/static/js/3.14dd0aca.chunk.js.map",
     "index.html": "/jsx-project/index.html",
-    "static/css/main.7f987bd0.chunk.css.map": "/jsx-project/static/css/main.7f987bd0.chunk.css.map",
-    "static/js/2.b55dbdc0.chunk.js.LICENSE.txt": "/jsx-project/static/js/2.b55dbdc0.chunk.js.LICENSE.txt",
+    "static/css/main.ce18ea5e.chunk.css.map": "/jsx-project/static/css/main.ce18ea5e.chunk.css.map",
+    "static/js/2.3df83787.chunk.js.LICENSE.txt": "/jsx-project/static/js/2.3df83787.chunk.js.LICENSE.txt",
     "static/media/Dauphin.765b24b5.mp4": "/jsx-project/static/media/Dauphin.765b24b5.mp4",
     "static/media/nature.6bb82c68.jpg": "/jsx-project/static/media/nature.6bb82c68.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b96dac91.js",
-    "static/js/2.b55dbdc0.chunk.js",
-    "static/css/main.7f987bd0.chunk.css",
-    "static/js/main.91a98add.chunk.js"
+    "static/js/runtime-main.5aa1d85a.js",
+    "static/js/2.3df83787.chunk.js",
+    "static/css/main.ce18ea5e.chunk.css",
+    "static/js/main.3d812ac3.chunk.js"
   ]
 }
